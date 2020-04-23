@@ -33,4 +33,4 @@ Send a GitHub PR with your application or email at  **info@devopsinternational.n
 
 www - [https://devopsinternational.nl/](https://devopsinternational.nl/)
 DevopsInternational B.V. 
-B. amsterdam B.2, John M. Keynesplein 12-46, 1066 EP, Amsterdam, NL
+B. amsterdam B.2, John M. Keynesplein 12-46, 1066 EP, Amsterdam, NL.
