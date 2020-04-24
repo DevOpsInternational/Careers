@@ -15,7 +15,7 @@ We have presence and co-working spaces in Amsterdam, Bangalore and Ahmedabad but
 -   We can’t live without these - Strong Javascript (ES6), React, HTML,CSS, Lint
 -   You are perfect match if you know - ANTD, Redux, Webpack, (Jest),Sonarcloud/Qube
 -   We take a bow if you know any of these - GraphQL, D3JS, E2E testing 
--   Expert remote backend developer having good knowledge of React.js ecosystem.
+-   Senior developer having good knowledge of functional programmng
 -   Independent, scalable and willing to go the extra mile to develop products with clean code.
 -   Someone who doesn't build software only for work but also for himself/herself as a hobby to learn something new.
 
